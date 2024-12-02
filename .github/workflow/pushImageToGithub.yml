@@ -20,4 +20,4 @@ jobs:
         with:
           context: "{{defaultContext}}"
           push: true
-          tags: rekhugopal/testrepo:latest
+          tags: akbar555/testdulu:latest
